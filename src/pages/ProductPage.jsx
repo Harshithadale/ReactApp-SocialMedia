@@ -1,6 +1,5 @@
 import React from "react";
-
-import MoreProducts from "../components/moreProducts";
+import MoreProducts from "../components/MoreProducts"
 import ProductDetail from "../components/ProductDetail";
 
 function ProductPage() {
